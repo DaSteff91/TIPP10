@@ -1,0 +1,45 @@
+The origins of the open source movement can be traced back to the early days of computing.
+In the 1950s and 60s, software was often shared freely among researchers and academics.
+This collaborative spirit was fundamental to the rapid advancement of technology.
+However, as software became more complex and commercially valuable, proprietary models began to emerge.
+Companies started to keep their source code secret, limiting users' ability to understand, modify, or distribute the software.
+This shift marked a significant departure from the initial open sharing of knowledge.
+One of the pivotal moments arrived in the late 1970s and early 1980s with the rise of personal computers.
+Software development accelerated, and the debate over access and control intensified.
+Richard Stallman, a programmer at the MIT Artificial Intelligence Laboratory, became a vocal critic of proprietary software.
+He experienced firsthand the frustration of being unable to modify or share software he used.
+In 1983, Stallman famously announced the GNU Project, aiming to create a completely free, Unix-like operating system.
+He defined 'free software' based on four essential freedoms: the freedom to run the program for any purpose, the freedom to study how the program works and change it, the freedom to redistribute copies, and the freedom to distribute copies of your modified versions.
+This philosophy was rooted in ethical and social principles as much as technical ones.
+The GNU Project laid the groundwork for many free software tools and components.
+However, a complete free operating system was still a distant goal.
+In 1991, Linus Torvalds, a student in Finland, began developing a new operating system kernel as a hobby project.
+He initially called it Freax, but it was soon renamed Linux.
+Torvalds decided to release his kernel under the GNU General Public License (GPL).
+This license ensured that the Linux kernel would remain free and open source.
+The combination of the GNU operating system components and the Linux kernel proved to be incredibly powerful.
+This fusion created a robust and functional operating system that could rival proprietary alternatives.
+The term 'open source' itself was coined in 1998 by Christine Peterson, Ray Harrison, and Eric Raymond.
+They felt that the term 'free software' was sometimes misunderstood, implying a lack of cost rather than freedom.
+The 'open source' label was intended to emphasize the practical benefits of shared development and access to source code, such as improved reliability, flexibility, and reduced cost.
+This new terminology helped to broaden the appeal of the movement beyond its initial ethical stance.
+It attracted more commercial interest and led to wider adoption in businesses and institutions.
+The Open Source Initiative (OSI) was founded in 1998 to promote the term and the concept of open source software.
+The OSI developed a formal definition of open source, outlining ten criteria that software must meet to be considered open source.
+These criteria include criteria such as free redistribution, source code availability, and permission to create derived works.
+The open source movement gained significant momentum throughout the late 1990s and early 2000s.
+Companies like Netscape initially released their browser's source code, contributing to the growth of open source.
+Major corporations began to recognize the value of open source development, not just for its cost-effectiveness but for its innovation.
+Linux became a dominant force in servers, supercomputers, and embedded systems.
+Projects like Apache HTTP Server, MySQL database, and PHP scripting language became foundational technologies for the internet.
+The collaborative development model allowed for rapid bug fixing and feature development.
+Developers from around the world could contribute their skills and ideas, leading to highly stable and secure software.
+The open source philosophy also extended beyond software.
+It inspired similar movements in hardware, data, and creative content.
+Hardware designs, scientific research, and artistic works began to be shared under open licenses.
+This expansion demonstrated the broad applicability of the open collaboration and knowledge-sharing principles.
+Today, open source software is ubiquitous.
+It powers much of the internet, mobile devices, and countless applications we use daily.
+Major technology companies actively contribute to and rely on open source projects.
+The success of the open source movement showcases the power of collaboration, transparency, and shared innovation.
+It represents a fundamental shift in how software and knowledge can be created, distributed, and improved for the benefit of all.

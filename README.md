@@ -88,3 +88,4 @@ Happy typing!
 | Web Geschichte | Die Entstehung und Entwicklung des World Wide Webs, von den Anfängen bis heute. | German | 3419 |
 | C Sprache | Die Geschichte der C-Programmiersprache ist faszinierend und beeinflusst die Softwareentwicklung bis heute stark. | German | 4894 |
 | Open Source | The origins of the open source movement and its evolution through collaboration and shared innovation. | English | 3431 |
+| Netzwerk Pioniere | Die Geschichte der Netzwerke und ihrer Entwicklung von den Anfängen bis zum World Wide Web. | German | 4997 |

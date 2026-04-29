@@ -1,0 +1,60 @@
+Die Geschichte der Netzwerke ist faszinierend.
+Sie begann mit einfachen Ideen.
+Viele brillante Köpfe trugen dazu bei.
+Einer der ersten war Paul Baran.
+Er arbeitete in den 1960er Jahren.
+Er dachte über verteilte Netzwerke nach.
+Dies war eine Reaktion auf den Kalten Krieg.
+Er schlug paketvermittelte Datenübertragung vor.
+Diese Idee war revolutionär.
+Sie bildete die Grundlage für das Internet.
+Donald Davies war ebenfalls wichtig.
+Er entwickelte ähnliche Konzepte.
+Er prägte den Begriff "Packet Switching".
+Seine Arbeit war unabhängig von Barans.
+Beide erkannten das Potenzial.
+Das ARPANET war ein frühes Projekt.
+Es wurde vom US-Verteidigungsministerium initiiert.
+Ziel war ein dezentrales Kommunikationssystem.
+Es sollte auch im Falle eines Angriffs funktionieren.
+Vint Cerf und Bob Kahn gelten als Väter des Internets.
+Sie entwickelten das TCP/IP-Protokoll.
+TCP steht für Transmission Control Protocol.
+IP steht für Internet Protocol.
+Dieses Protokoll ermöglichte die Verbindung verschiedener Netzwerke.
+Es schuf das "Netzwerk der Netzwerke".
+Dies war ein entscheidender Schritt.
+Die erste ARPANET-Verbindung fand 1969 statt.
+Sie verband vier Universitäten in den USA.
+Das Projekt wuchs langsam.
+Es wurde für Forschung und Militär genutzt.
+Universitäten und Forschungseinrichtungen schlossen sich an.
+Die E-Mail wurde eine wichtige Anwendung.
+Ray Tomlinson schickte 1971 die erste E-Mail.
+Er nutzte das @-Symbol zur Adressierung.
+Dies vereinfachte die Kommunikation erheblich.
+In den 1980er Jahren entwickelten sich weitere Netzwerke.
+Das NSFNET der National Science Foundation war eines davon.
+Es verband mehr Universitäten.
+Es förderte die zivile Nutzung.
+Tim Berners-Lee schuf das World Wide Web.
+Er arbeitete am CERN in Genf.
+Er entwickelte HTML, HTTP und URLs.
+Diese Technologien machten das Internet benutzerfreundlicher.
+Sie ermöglichten den einfachen Austausch von Informationen.
+Der erste Webbrowser wurde 1990 veröffentlicht.
+Das World Wide Web wurde 1993 öffentlich zugänglich.
+Dies war ein Wendepunkt.
+Das Internet begann, sich rasant zu verbreiten.
+Kommerzielle Internetanbieter entstanden.
+Das Internet wurde für jedermann zugänglich.
+Es veränderte Kommunikation, Wirtschaft und Gesellschaft.
+Die Entwicklung von Netzwerken ist ein fortlaufender Prozess.
+Neue Technologien entstehen ständig.
+Glasfaserkabel erhöhen die Geschwindigkeit.
+WLAN ermöglicht drahtlosen Zugang.
+Das Internet der Dinge verbindet Geräte.
+Die Pioniere legten den Grundstein.
+Ihre Visionen sind heute Realität.
+Die Vernetzung der Welt ist ihr Vermächtnis.
+Es ist schwer vorstellbar, wie wir heute ohne leben würden.

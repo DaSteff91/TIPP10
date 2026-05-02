@@ -91,3 +91,4 @@ Happy typing!
 | Netzwerk Pioniere | Die Geschichte der Netzwerke und ihrer Entwicklung von den Anfängen bis zum World Wide Web. | German | 4997 |
 | Kaiser Wilhelm | Die Geschichte des Deutschen Kaisers Wilhelm II. und seine prägende Rolle für Deutschland und Europa. | German | 4959 |
 | Mainframe Ära | Die Mainframe-Ära markierte eine transformative Periode in der Geschichte der Datenverarbeitung mit riesigen Rechnern. | German | 2688 |
+| PC Revolution | The personal computer revolution democratized technology and transformed society, paving the way for the digital age. | English | 3447 |

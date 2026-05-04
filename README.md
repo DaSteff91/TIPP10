@@ -93,3 +93,4 @@ Happy typing!
 | Mainframe Ära | Die Mainframe-Ära markierte eine transformative Periode in der Geschichte der Datenverarbeitung mit riesigen Rechnern. | German | 2688 |
 | PC Revolution | The personal computer revolution democratized technology and transformed society, paving the way for the digital age. | English | 3447 |
 | Hidden Figures | The story of underrated scientists whose contributions were pivotal to major scientific breakthroughs. | English | 2598 |
+| Lab Genesis | University research labs are crucibles of discovery, dedicated spaces for scientific inquiry, fostering innovation and knowledge. | English | 5189 |

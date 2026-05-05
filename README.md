@@ -94,3 +94,4 @@ Happy typing!
 | PC Revolution | The personal computer revolution democratized technology and transformed society, paving the way for the digital age. | English | 3447 |
 | Hidden Figures | The story of underrated scientists whose contributions were pivotal to major scientific breakthroughs. | English | 2598 |
 | Lab Genesis | University research labs are crucibles of discovery, dedicated spaces for scientific inquiry, fostering innovation and knowledge. | English | 5189 |
+| Digital Excavations | Digital archaeology is the study and preservation of digital artifacts for historical understanding. | English | 2678 |

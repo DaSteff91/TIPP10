@@ -95,3 +95,4 @@ Happy typing!
 | Hidden Figures | The story of underrated scientists whose contributions were pivotal to major scientific breakthroughs. | English | 2598 |
 | Lab Genesis | University research labs are crucibles of discovery, dedicated spaces for scientific inquiry, fostering innovation and knowledge. | English | 5189 |
 | Digital Excavations | Digital archaeology is the study and preservation of digital artifacts for historical understanding. | English | 2678 |
+| Knowledge Unlocked | The history of educational content, from ancient oral traditions to modern digital platforms, showcasing its evolution and impact. | English | 3439 |

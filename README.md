@@ -99,3 +99,4 @@ Happy typing!
 | Tech Anthropology | An exploration of how humans interact with and are shaped by technology. | English | 3398 |
 | Netzwerke Gestern | Die Ursprünge sozialer Medien sind tief in der Geschichte des Internets verwurzelt. Frühe Online-Communities legten den Grundstein für digitale Interaktion. | German | 2405 |
 | Frühe Computer | Die Geschichte des frühen Computers ist faszinierend und begann lange vor dem elektronischen Zeitalter. | German | 5050 |
+| Web History | The World Wide Web began its journey in 1989. Tim Berners-Lee was the visionary behind it. He worked at CERN. | English | 5040 |

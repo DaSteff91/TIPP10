@@ -101,3 +101,4 @@ Happy typing!
 | Frühe Computer | Die Geschichte des frühen Computers ist faszinierend und begann lange vor dem elektronischen Zeitalter. | German | 5050 |
 | Web History | The World Wide Web began its journey in 1989. Tim Berners-Lee was the visionary behind it. He worked at CERN. | English | 5040 |
 | Cybersecurity History | A factual and historically accurate story about the evolution of cybersecurity and its key milestones. | English | 2598 |
+| Lost Minds | The uncredited efforts and pioneering ideas of individuals whose names may no longer resonate in popular discourse. | English | 2635 |

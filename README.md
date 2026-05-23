@@ -103,3 +103,4 @@ Happy typing!
 | Cybersecurity History | A factual and historically accurate story about the evolution of cybersecurity and its key milestones. | English | 2598 |
 | Lost Minds | The uncredited efforts and pioneering ideas of individuals whose names may no longer resonate in popular discourse. | English | 2635 |
 | Sprachen-Evolution | Die Reise der Programmiersprachen von ihren Anfängen bis zur modernen Vielfalt und deren Einfluss. | German | 1140 |
+| OS History | The journey of operating systems from early batch processing to modern graphical interfaces and open-source innovations. | English | 3510 |

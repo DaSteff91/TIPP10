@@ -1,0 +1,67 @@
+Datenbanken sind heute allgegenwärtig.
+Sie speichern und organisieren Informationen.
+Ihre Geschichte reicht weit zurück.
+Frühe Formen waren einfache Listen.
+Diese Listen dienten der Verwaltung.
+In der Antike nutzte man Tafeln.
+Auch Rollen aus Papyrus kamen zum Einsatz.
+Mit der Erfindung des Buchdrucks wuchs die Informationsmenge.
+Das 19. Jahrhundert brachte erste systematische Ansätze.
+Charles Babbage entwarf mechanische Rechenmaschinen.
+Diese Maschinen konnten Daten verarbeiten.
+Ada Lovelace schrieb Algorithmen dafür.
+Im 20. Jahrhundert begann die Ära der Computer.
+Die Speicherung von Daten wurde digital.
+Frühe Computersysteme nutzten Lochkarten.
+Diese Karten speicherten Informationen zeilenweise.
+Die Suche nach Daten war mühsam.
+Es entstand die Notwendigkeit besserer Systeme.
+Die erste Datenbank war das CODASYL-Modell.
+Es wurde in den 1960er Jahren entwickelt.
+CODASYL stand für Conference on Data Systems Languages.
+Dieses Modell nutzte ein Netzwerkmodell.
+Daten wurden als Knoten und Kanten dargestellt.
+Die Beziehungen zwischen Daten waren explizit.
+Es war ein wichtiger Schritt zur Organisation.
+In den 1970er Jahren kam das relationale Modell.
+Edgar F. Codd entwickelte diese Theorie.
+Er arbeitete bei IBM.
+Sein Modell basierte auf Mengenlehre und Logik.
+Daten wurden in Tabellen gespeichert.
+Diese Tabellen hatten Zeilen und Spalten.
+Spalten repräsentierten Attribute.
+Zeilen repräsentierten Datensätze.
+Das relationale Modell revolutionierte die Datenverwaltung.
+SQL wurde als Abfragesprache entwickelt.
+SQL steht für Structured Query Language.
+SQL machte den Zugriff auf Daten einfacher.
+Es erlaubte komplexe Abfragen.
+Systeme wie Oracle und IBM DB2 nutzten das Modell.
+Dies führte zu einer breiten Akzeptanz.
+In den 1980er und 1990er Jahren wuchs der Markt.
+Viele relationale Datenbankmanagementsysteme (RDBMS) entstanden.
+Microsoft SQL Server und MySQL wurden populär.
+Die Datenmengen stiegen exponentiell an.
+Webanwendungen benötigten effiziente Datenbanken.
+Die Komplexität der Daten nahm zu.
+Es entstanden neue Modelle.
+Das objektorientierte Datenbankmodell war eine Idee.
+Es integrierte Datenbanken mit objektorientierter Programmierung.
+Diese Systeme waren jedoch nicht sehr verbreitet.
+Die verteilte Datenbanktechnologie gewann an Bedeutung.
+Daten wurden über mehrere Server verteilt.
+Dies erhöhte die Verfügbarkeit und Leistung.
+Das Internet und die Globalisierung trieben die Entwicklung voran.
+Im 21. Jahrhundert entstanden NoSQL-Datenbanken.
+NoSQL steht für Not Only SQL.
+Diese Systeme bieten flexible Schemata.
+Sie eignen sich für große, unstrukturierte Datenmengen.
+Beispiele sind MongoDB und Cassandra.
+Sie sind oft auf Skalierbarkeit und Leistung optimiert.
+Cloud-Datenbanken sind heute Standard.
+Sie bieten hohe Verfügbarkeit und einfache Skalierung.
+Datenbanken sind ein zentraler Bestandteil der modernen IT.
+Sie ermöglichen komplexe Analysen.
+Sie unterstützen künstliche Intelligenz.
+Ihre Entwicklung ist noch nicht abgeschlossen.
+Neue Technologien verändern das Feld ständig.

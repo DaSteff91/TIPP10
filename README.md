@@ -105,3 +105,4 @@ Happy typing!
 | Sprachen-Evolution | Die Reise der Programmiersprachen von ihren Anfängen bis zur modernen Vielfalt und deren Einfluss. | German | 1140 |
 | OS History | The journey of operating systems from early batch processing to modern graphical interfaces and open-source innovations. | English | 3510 |
 | Datenbanken Entstehung | Die Geschichte der Datenbanken von den Anfängen bis zur modernen Cloud-Ära. | German | 2780 |
+| Mainframe History | The history of mainframe computers, from their early beginnings to their modern relevance in data processing. | English | 3448 |

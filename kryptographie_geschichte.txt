@@ -1,0 +1,26 @@
+Die Geschichte der Kryptographie ist eine faszinierende Reise durch Jahrhunderte der Geheimhaltung und Entschlüsselung.
+Schon im antiken Griechenland wurden einfache Substitutionsziffern wie die Caesar-Verschlüsselung eingesetzt, um Nachrichten zu schützen.
+Dabei wurden die Buchstaben eines Klartextes systematisch um eine feste Anzahl von Positionen im Alphabet verschoben.
+Diese Methode war zwar rudimentär, bot aber für die damalige Zeit einen gewissen Schutz.
+Im Mittelalter entwickelte sich die Kryptographie weiter, insbesondere durch die Araber, die die Transpositionschiffren einführten.
+Bei diesen Verfahren blieb die Identität der Buchstaben erhalten, jedoch wurde ihre Reihenfolge verändert.
+Ein wichtiger Meilenstein war die Erfindung des Vigenère-Verschlüsselungssystems im 16. Jahrhundert.
+Dieses polyalphabetische Verfahren war deutlich komplexer und galt lange Zeit als unbrechbar.
+Es nutzte ein Schlüsselwort, um verschiedene Caesar-ähnliche Verschiebungen auf aufeinanderfolgende Buchstaben anzuwenden.
+Die Entwicklung der modernen Kryptographie im 20. Jahrhundert wurde maßgeblich durch den Bedarf an sicherer Kommunikation in Kriegszeiten vorangetrieben.
+Die deutsche Enigma-Maschine, genutzt im Zweiten Weltkrieg, war ein Beispiel für eine hochentwickelte elektromechanische Rotorverschlüsselung.
+Die Entschlüsselung der Enigma durch die Alliierten, insbesondere durch die Arbeit in Bletchley Park, war ein entscheidender Faktor für den Kriegsverlauf.
+Die Kryptographie hat sich von manuellen Methoden zu hochkomplexen algorithmischen Verfahren entwickelt.
+Heute dominieren symmetrische und asymmetrische Verschlüsselungsalgorithmen, die auf mathematischen Prinzipien basieren.
+Symmetrische Verfahren wie AES nutzen denselben Schlüssel für Ver- und Entschlüsselung.
+Asymmetrische Verfahren wie RSA verwenden ein Schlüsselpaar, bestehend aus einem öffentlichen und einem privaten Schlüssel.
+Diese ermöglichen sichere Kommunikation und digitale Signaturen im Internet.
+Die Forschung im Bereich der Kryptographie ist stetig bestrebt, neue und sicherere Verschlüsselungsmethoden zu entwickeln.
+Quantencomputer stellen dabei eine zukünftige Herausforderung dar, da sie die Effektivität heutiger asymmetrischer Verschlüsselungsverfahren bedrohen könnten.
+Post-Quanten-Kryptographie befasst sich mit der Entwicklung von Algorithmen, die auch gegen Angriffe von Quantencomputern resistent sind.
+Die Bedeutung sicherer Datenübertragung und Speicherung ist in unserer digitalisierten Welt immens gestiegen.
+Von der einfachen Botschaft im antiken Rom bis zur globalen Datenverschlüsselung von heute, die Kryptographie spielt eine Schlüsselrolle.
+Ihre Entwicklung spiegelt den ständigen Wettlauf zwischen Verschleierung und Aufdeckung wider.
+Jeder Fortschritt in der einen Richtung inspiriert Innovationen in der anderen.
+Die Kryptographie bleibt somit ein dynamisches und essenzielles Feld der Informationstechnologie.
+Ihre Geschichte ist eng mit der menschlichen Notwendigkeit verbunden, Geheimnisse zu bewahren und Informationen zu schützen.

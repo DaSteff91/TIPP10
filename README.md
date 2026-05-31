@@ -109,3 +109,4 @@ Happy typing!
 | Digital Dawn | The personal computer revolution transformed technology, empowering individuals and businesses with accessible computing power. | English | 3487 |
 | Technical Narratives | Technical storytelling merges the precision of engineering with the resonance of narrative, transforming complex concepts into understandable accounts for diverse audiences. | English | 2650 |
 | Kryptographie Geschichte | Die Geschichte der Kryptographie ist eine faszinierende Reise durch Jahrhunderte der Geheimhaltung und Entschlüsselung. | German | 1378 |
+| Wissensfluss | Die Kunst, komplexe technische Informationen verständlich und ansprechend zu vermitteln. | German | 3433 |

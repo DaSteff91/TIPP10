@@ -111,3 +111,4 @@ Happy typing!
 | Kryptographie Geschichte | Die Geschichte der Kryptographie ist eine faszinierende Reise durch Jahrhunderte der Geheimhaltung und Entschlüsselung. | German | 1378 |
 | Wissensfluss | Die Kunst, komplexe technische Informationen verständlich und ansprechend zu vermitteln. | German | 3433 |
 | Interaktion Geschichte | Die Geschichte der Mensch-Computer-Interaktion, von Lochkarten bis zu KI und VR. | German | 2665 |
+| Cloud Ursprünge | Eine historische Reise in die Entstehung von Cloud Computing und seinen Vorläufern. | German | 4984 |

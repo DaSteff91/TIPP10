@@ -1,0 +1,73 @@
+Die Anfänge des Cloud Computing reichen weiter zurück als viele denken.
+Es begann nicht mit dem Internet, wie wir es heute kennen.
+Schon in den 1950er und 1960er Jahren gab es Vorläufer.
+Große Mainframe-Computer waren das Zentrum.
+Diese Rechner waren sehr teuer und riesig.
+Nur große Unternehmen und Universitäten konnten sie sich leisten.
+Das Konzept hieß "Time-Sharing".
+Mehrere Benutzer teilten sich die Rechenzeit eines einzigen Computers.
+Sie nutzten Terminals, um auf den Mainframe zuzugreifen.
+So konnten viele Menschen gleichzeitig arbeiten.
+Dies war eine frühe Form des gemeinsamen Ressourcennutzung.
+John McCarthy hatte eine Vision.
+Er sprach 1961 von "Utility Computing".
+Dies bedeutet, dass Computerleistung wie Strom aus der Steckdose kommt.
+Man zahlt nur für das, was man nutzt.
+Das Konzept gewann langsam an Fahrt.
+Die Entwicklung von Netzwerken war entscheidend.
+Das ARPANET, der Vorläufer des Internets, wurde geschaffen.
+Es verband Forschungszentren.
+Dies ermöglichte den Datenaustausch über Distanzen.
+In den 1970er Jahren entstanden die ersten virtuellen Maschinen.
+Diese emulierten Hardware.
+Ein physischer Computer konnte mehrere virtuelle Computer beherbergen.
+Das erhöhte die Effizienz weiter.
+Die Idee der zentralen Ressourcennutzung war geboren.
+In den 1980er Jahren gab es weitere Fortschritte.
+Die Personal Computer wurden populärer.
+Aber die Idee der zentralen Server blieb bestehen.
+Unternehmen nutzten weiterhin Server für ihre Anwendungen.
+Diese Server waren jedoch oft lokal.
+Die Telekommunikationsindustrie spielte eine wichtige Rolle.
+Die Entwicklung von Glasfasernetzen brachte Geschwindigkeit.
+Die Kosten für Speicher und Rechenleistung sanken.
+Dies machte die Idee zugänglicher.
+Die 1990er Jahre brachten das World Wide Web.
+Das Internet wuchs exponentiell.
+Dies schuf die Grundlage für globale Netzwerke.
+Online-Dienste begannen sich zu entwickeln.
+Salesforce wurde 1999 gegründet.
+Sie boten Software über das Internet an.
+Dies war ein wichtiger Schritt.
+Es war eine frühe Form von Software-as-a-Service (SaaS).
+Die Idee der "Cloud" als Metapher gewann an Bedeutung.
+Sie symbolisierte das Internet und das Unbekannte.
+Amazon erkannte das Potenzial.
+Sie hatten überschüssige Rechenkapazitäten.
+Im Jahr 2006 starteten sie Amazon Web Services (AWS).
+Dies war ein Wendepunkt.
+AWS bot Speicher und Rechenleistung als Dienstleistung an.
+Kunden konnten ihre eigenen Server mieten.
+Sie zahlten nur für die Nutzung.
+Dies machte die Cloud-Technologie massentauglich.
+Andere Unternehmen folgten schnell.
+Google Cloud Platform und Microsoft Azure kamen später.
+Die Entwicklung von Virtualisierungstechnologien war essenziell.
+Sie erlaubten die effiziente Nutzung von Hardware.
+Moderne Cloud-Infrastrukturen basieren darauf.
+Die Cloud ermöglichte Skalierbarkeit.
+Unternehmen konnten ihre Kapazitäten schnell anpassen.
+Sie mussten keine eigene Hardware mehr kaufen.
+Die Kosten wurden planbarer.
+Die Ausfallsicherheit verbesserte sich ebenfalls.
+Daten wurden an mehreren Orten gespeichert.
+Das Konzept des Utility Computing wurde Realität.
+Es wurde zum Cloud Computing.
+Die Idee der geteilten Ressourcen lebte weiter.
+Sie wurde moderner und leistungsfähiger.
+Die Reise von den Mainframes bis heute war lang.
+Sie war geprägt von technologischen Sprüngen.
+Die Cloud hat die digitale Welt revolutioniert.
+Sie ist heute allgegenwärtig.
+Sie treibt Innovationen voran.
+Die Geschichte der Cloud ist noch lange nicht zu Ende.

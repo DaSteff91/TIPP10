@@ -1,0 +1,50 @@
+Die Wurzeln agiler Methoden reichen weit zurück.
+Schon im frühen 20. Jahrhundert suchten Ingenieure nach besseren Wegen.
+Sie wollten flexibler auf sich ändernde Anforderungen reagieren.
+Dies war besonders im militärischen Bereich wichtig.
+Die Entwicklung von Software stellte neue Herausforderungen dar.
+Traditionelle, lineare Ansätze waren oft zu starr.
+Der Wasserfall-Ansatz dominierte lange Zeit.
+Er teilte Projekte in strikte Phasen ein.
+Jede Phase musste abgeschlossen sein, bevor die nächste begann.
+Dies führte oft zu Problemen.
+Änderungen waren schwer umzusetzen.
+Kunden erhielten das Endprodukt oft erst spät.
+Dann waren die Bedürfnisse vielleicht schon anders.
+In den 1990er Jahren gab es erste Anzeichen des Wandels.
+Leichtere Methoden wurden erforscht.
+Diese sollten iterativ und inkrementell sein.
+Das Ziel war, schneller Feedback zu erhalten.
+Frühe Scrum-Varianten tauchten auf.
+Extreme Programming (XP) wurde ebenfalls entwickelt.
+Kent Beck gilt als einer der Vordenker.
+Er entwickelte XP im späten 20. Jahrhundert.
+Das "Agile Manifesto" war ein Wendepunkt.
+Im Jahr 2001 trafen sich Softwareentwickler.
+Sie trafen sich in Snowbird, Utah.
+Sie wollten eine gemeinsame Basis für agile Entwicklung schaffen.
+Sie formulierten vier Kernwerte.
+Individuen und Interaktionen waren wichtiger als Prozesse und Werkzeuge.
+Funktionierende Software war wichtiger als umfassende Dokumentation.
+Zusammenarbeit mit dem Kunden war wichtiger als Vertragsverhandlungen.
+Reagieren auf Veränderung war wichtiger als das Befolgen eines Plans.
+Aus diesen Werten leiteten sie zwölf Prinzipien ab.
+Diese Prinzipien unterstützten die vier Werte.
+Sie betonten kontinuierliche Lieferung und technische Exzellenz.
+Die agile Bewegung wuchs schnell.
+Viele Unternehmen adaptierten agile Praktiken.
+Scrum wurde zu einer der beliebtesten Methoden.
+Es nutzt kurze Entwicklungszyklen, sogenannte Sprints.
+Kanban ist eine weitere beliebte Methode.
+Es konzentriert sich auf den Fluss der Arbeit.
+Lean Manufacturing beeinflusste agile Methoden stark.
+Die Prinzipien der Verschwendungsreduzierung sind zentral.
+Agile ist mehr als nur eine Methode.
+Es ist eine Denkweise, eine Kultur.
+Es geht um Anpassungsfähigkeit und Zusammenarbeit.
+Auch heute entwickelt sich Agile weiter.
+Neue Frameworks und Anpassungen entstehen.
+Die Grundprinzipien bleiben jedoch bestehen.
+Sie helfen Teams, erfolgreich zu sein.
+Sie ermöglichen es, wertvolle Produkte zu liefern.
+Die Reise der agilen Entwicklung ist noch nicht zu Ende.

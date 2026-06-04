@@ -113,3 +113,4 @@ Happy typing!
 | Interaktion Geschichte | Die Geschichte der Mensch-Computer-Interaktion, von Lochkarten bis zu KI und VR. | German | 2665 |
 | Cloud Ursprünge | Eine historische Reise in die Entstehung von Cloud Computing und seinen Vorläufern. | German | 4984 |
 | Agile Geschichte | Eine historische Reise durch die Entwicklung und Prinzipien agiler Softwareentwicklungsmethoden. | German | 5000 |
+| Erfindungsgeschichten | Die Geschichte der Erfindung ist faszinierend und voller menschlichen Einfallsreichtums. Viele alltägliche Gegenstände waren einst kühne Ideen, die die Welt veränderten. | German | 3468 |

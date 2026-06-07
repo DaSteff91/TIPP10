@@ -115,3 +115,4 @@ Happy typing!
 | Agile Geschichte | Eine historische Reise durch die Entwicklung und Prinzipien agiler Softwareentwicklungsmethoden. | German | 5000 |
 | Erfindungsgeschichten | Die Geschichte der Erfindung ist faszinierend und voller menschlichen Einfallsreichtums. Viele alltägliche Gegenstände waren einst kühne Ideen, die die Welt veränderten. | German | 3468 |
 | Exhibit History | Museum exhibits represent curated collections intended to inform, educate, and engage audiences. | English | 2674 |
+| Truth Teller | The pursuit of factual narratives has been a cornerstone of human understanding throughout history. | English | 4615 |

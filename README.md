@@ -116,3 +116,4 @@ Happy typing!
 | Erfindungsgeschichten | Die Geschichte der Erfindung ist faszinierend und voller menschlichen Einfallsreichtums. Viele alltägliche Gegenstände waren einst kühne Ideen, die die Welt veränderten. | German | 3468 |
 | Exhibit History | Museum exhibits represent curated collections intended to inform, educate, and engage audiences. | English | 2674 |
 | Truth Teller | The pursuit of factual narratives has been a cornerstone of human understanding throughout history. | English | 4615 |
+| Cold War | The ideological struggle fueled technological innovation and the Space Race. | English | 3447 |

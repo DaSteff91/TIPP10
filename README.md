@@ -117,3 +117,4 @@ Happy typing!
 | Exhibit History | Museum exhibits represent curated collections intended to inform, educate, and engage audiences. | English | 2674 |
 | Truth Teller | The pursuit of factual narratives has been a cornerstone of human understanding throughout history. | English | 4615 |
 | Cold War | The ideological struggle fueled technological innovation and the Space Race. | English | 3447 |
+| Cipher Evolution | Cryptography's historical journey from ancient methods to modern digital algorithms, including key developments and influential figures. | English | 2928 |

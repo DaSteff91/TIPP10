@@ -118,7 +118,6 @@ Happy typing!
 | Truth Teller | The pursuit of factual narratives has been a cornerstone of human understanding throughout history. | English | 4615 |
 | Cold War | The ideological struggle fueled technological innovation and the Space Race. | English | 3447 |
 | Cipher Evolution | Cryptography's historical journey from ancient methods to modern digital algorithms, including key developments and influential figures. | English | 2928 |
-|  |  | English | 0 |
 | Mainframe Dawn | The story of early colossal computers that revolutionized business, science, and government operations during the mid-20th century. | English | 3830 |
-| Title | Description | English | 4325 |
+| Game Genesis | Video games evolved from simple oscilloscope blips to global phenomenon via serendipity. | English | 4325 |
 | Math Computing | The historical journey of automating mathematical calculations from ancient tools to modern electronic computers and software. | English | 3571 |

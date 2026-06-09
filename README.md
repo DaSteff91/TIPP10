@@ -119,3 +119,4 @@ Happy typing!
 | Cold War | The ideological struggle fueled technological innovation and the Space Race. | English | 3447 |
 | Cipher Evolution | Cryptography's historical journey from ancient methods to modern digital algorithms, including key developments and influential figures. | English | 2928 |
 |  |  | English | 0 |
+| Mainframe Dawn | The story of early colossal computers that revolutionized business, science, and government operations during the mid-20th century. | English | 3830 |

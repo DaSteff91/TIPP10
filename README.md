@@ -118,3 +118,4 @@ Happy typing!
 | Truth Teller | The pursuit of factual narratives has been a cornerstone of human understanding throughout history. | English | 4615 |
 | Cold War | The ideological struggle fueled technological innovation and the Space Race. | English | 3447 |
 | Cipher Evolution | Cryptography's historical journey from ancient methods to modern digital algorithms, including key developments and influential figures. | English | 2928 |
+|  |  | English | 0 |

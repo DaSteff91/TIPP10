@@ -121,3 +121,4 @@ Happy typing!
 | Mainframe Dawn | The story of early colossal computers that revolutionized business, science, and government operations during the mid-20th century. | English | 3830 |
 | Game Genesis | Video games evolved from simple oscilloscope blips to global phenomenon via serendipity. | English | 4325 |
 | Math Computing | The historical journey of automating mathematical calculations from ancient tools to modern electronic computers and software. | English | 3571 |
+| Password Evolution | Password security's historical development, challenges, and future advancements in authentication mechanisms. | English | 2605 |

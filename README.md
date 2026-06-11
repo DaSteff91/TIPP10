@@ -122,3 +122,4 @@ Happy typing!
 | Game Genesis | Video games evolved from simple oscilloscope blips to global phenomenon via serendipity. | English | 4325 |
 | Math Computing | The historical journey of automating mathematical calculations from ancient tools to modern electronic computers and software. | English | 3571 |
 | Password Evolution | Password security's historical development, challenges, and future advancements in authentication mechanisms. | English | 2605 |
+| Software Handwerk | A journey into the principles and history of building high-quality software with care and dedication. | German | 4922 |

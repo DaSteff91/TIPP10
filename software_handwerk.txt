@@ -1,0 +1,98 @@
+Die Wurzeln des Software Craftsmanship reichen weit zurück.
+Schon in den frühen Tagen der Programmierung gab es Entwickler.
+Diese widmeten sich der Kunst des sauberen Codes.
+Sie verstanden Softwareentwicklung als Handwerk.
+Es ging um Präzision und Sorgfalt.
+Viele frühe Programmierer lernten ihr Metier durch harte Arbeit.
+Sie experimentierten und teilten ihr Wissen.
+Es gab keine großen Frameworks oder Libraries.
+Jede Zeile Code war eine bewusste Entscheidung.
+Die Qualität des Codes spiegelte die Fähigkeit des Entwicklers wider.
+Mit der Zeit wuchs die Komplexität der Software.
+Tools wurden entwickelt, um den Prozess zu beschleunigen.
+Die Industrie setzte auf Geschwindigkeit.
+Qualität geriet manchmal in den Hintergrund.
+Dies führte zu sogenannten "Legacy-Systemen".
+Diese Systeme waren schwer zu warten.
+Ihre Fehlerbehebung war zeitaufwändig und teuer.
+Viele Entwickler erlebten Frustration.
+Sie sehnten sich nach einer Rückbesinnung auf die Grundlagen.
+Das Software Craftsmanship Movement entstand als Reaktion.
+Es begann in den frühen 2000er Jahren.
+Eine Gruppe von Entwicklern teilte ihre Vision.
+Sie trafen sich auf Konferenzen und in User Groups.
+Sie diskutierten über Best Practices.
+Sie betonten die Bedeutung von professionellem Verhalten.
+Agile Methoden wie Scrum und XP waren wichtig.
+Extreme Programming (XP) legte besonderen Wert auf Technik.
+Pair Programming war eine Kernpraxis.
+Dadurch wurde Wissen geteilt und die Codequalität verbessert.
+Testgetriebene Entwicklung (TDD) wurde populär.
+Entwickler schrieben Tests, bevor sie den Code schrieben.
+Das führte zu robusterer Software.
+Refactoring wurde zu einem ständigen Prozess.
+Code wurde kontinuierlich verbessert.
+Kleine, inkrementelle Änderungen machten den Unterschied.
+Das Ziel war immer verständlicher und wartbarer Code.
+Die Gemeinschaft des Software Craftsmanship wuchs.
+Viele Entwickler aus aller Welt schlossen sich an.
+Sie organisierten unkonventionelle Konferenzen.
+Diese hießen "Craft" Konferenzen.
+Der Fokus lag auf Diskussion und Lernen.
+Es gab wenig Vorträge und viel Interaktion.
+Das "Code Retreat" Format wurde populär.
+Entwickler übten gemeinsam das Schreiben von Code.
+Sie konzentrierten sich auf die technische Exzellenz.
+Das Thema "Clean Code" wurde zentral.
+Robert C. Martin, auch bekannt als "Uncle Bob", spielte eine wichtige Rolle.
+Er schrieb Bücher über sauberen Code.
+Diese Bücher inspirierten viele.
+Sie legten Prinzipien wie SOLID dar.
+Diese Prinzipien helfen, gut strukturierte Software zu schreiben.
+Domain-Driven Design (DDD) war ein weiterer wichtiger Einfluss.
+Es fördert das Verständnis der Geschäftsdomäne.
+Die Software sollte die Domäne widerspiegeln.
+Das Vokabular der Domäne wurde im Code verwendet.
+Das Ziel war eine engere Zusammenarbeit zwischen Entwicklern und Fachexperten.
+Das "The Twelve-Factor App" Manifest kam auf.
+Es beschreibt Prinzipien für den Aufbau von Software-as-a-Service.
+Diese Prinzipien helfen bei der Skalierbarkeit und Wartbarkeit.
+Software Craftsmanship ist keine Technologie.
+Es ist eine Haltung und eine Philosophie.
+Es geht darum, sich kontinuierlich zu verbessern.
+Es geht darum, stolz auf seine Arbeit zu sein.
+Es geht darum, Software zu schaffen, die Wert liefert.
+Es ist ein Bekenntnis zur Qualität.
+Es ist die Weiterentwicklung der Softwareentwicklung.
+Die Prinzipien sind zeitlos.
+Sie helfen, bessere Software zu bauen.
+Sie fördern eine Kultur des Lernens.
+Die Gemeinschaft lebt von ständigem Austausch.
+Neue Herausforderungen entstehen.
+Die Werkzeuge und Sprachen ändern sich.
+Die Kernwerte des Handwerks bleiben bestehen.
+Es geht um Respekt vor dem Code.
+Es geht um Respekt vor den Kollegen.
+Es geht um Respekt vor dem Kunden.
+Software Craftsmanship fordert die Entwickler heraus.
+Sie sollen mehr als nur Code schreiben.
+Sie sollen Architekturen entwerfen.
+Sie sollen Probleme lösen.
+Sie sollen Werte schaffen.
+Das Streben nach Meisterschaft ist ein lebenslanger Prozess.
+Die Reise des Software Craftsman ist nie zu Ende.
+Jeder Tag bietet eine neue Chance zu lernen.
+Jeder Tag bietet eine neue Chance zu wachsen.
+Die Leidenschaft für das Handwerk treibt sie an.
+Sie wollen die besten Entwickler sein, die sie sein können.
+Das ist die Essenz des Software Craftsmanship.
+Es ist die Kunst, Software mit Bedacht zu bauen.
+Es ist das Engagement für Exzellenz.
+Es ist die Verpflichtung zur Qualität.
+Es ist das ständige Streben nach Verbesserung.
+Es ist die Weiterentwicklung des Berufsstandes.
+Es ist die Anerkennung der Verantwortung.
+Es ist die Freude am Schaffen.
+Es ist das Erbe der Pioniere.
+Es ist die Zukunft der Softwareentwicklung.
+Es ist ein Versprechen an die nächste Generation.

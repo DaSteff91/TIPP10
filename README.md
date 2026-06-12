@@ -123,3 +123,4 @@ Happy typing!
 | Math Computing | The historical journey of automating mathematical calculations from ancient tools to modern electronic computers and software. | English | 3571 |
 | Password Evolution | Password security's historical development, challenges, and future advancements in authentication mechanisms. | English | 2605 |
 | Software Handwerk | A journey into the principles and history of building high-quality software with care and dedication. | German | 4922 |
+| Geheime Botschaften | Die Kunst der Verschlüsselung, um geheime Botschaften zu schützen, hat eine lange und faszinierende Geschichte. | German | 2241 |

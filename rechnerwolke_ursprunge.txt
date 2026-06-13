@@ -1,0 +1,72 @@
+Die Wurzeln des Cloud Computing reichen weiter zurück, als viele annehmen.
+Es begann nicht mit dem Internet, wie wir es heute kennen.
+Schon in den 1950er und 60er Jahren gab es Ideen.
+Große Computer waren damals sehr teuer.
+Nur wenige Organisationen konnten sich solche Maschinen leisten.
+Diese Computer nutzten die Zeit viele Male.
+Man teilte die Rechenzeit zwischen verschiedenen Nutzern auf.
+Dies war die Geburtsstunde des Timesharing.
+JATCC war eine frühe Vision.
+John McCarthy dachte über ein Computernetzwerk nach.
+Er sprach von einem "Computational Service" im Jahr 1961.
+Dies sollte wie ein öffentliches Dienstprogramm funktionieren.
+Man konnte Rechenleistung abrufen, wann immer man sie brauchte.
+Die Gebühr wäre pro Nutzung angefallen.
+Dies war eine revolutionäre Idee für die damalige Zeit.
+ARPANET wurde in den späten 1960ern entwickelt.
+Es verband Universitäten und Forschungseinrichtungen.
+Dies war ein Vorläufer des modernen Internets.
+Die Idee der verteilten Datenverarbeitung wuchs.
+In den 1970ern entwickelten sich Konzepte wie Virtualisierung.
+Virtualisierung erlaubte es, mehrere Betriebssysteme auf einer Maschine laufen zu lassen.
+Dies erhöhte die Effizienz enorm.
+ELAN war ein frühes Timesharing-System.
+Es wurde von der ETH Zürich entwickelt.
+Es ermöglichte vielen Nutzern gleichzeitigen Zugriff.
+Die Kosten pro Nutzer sanken dadurch erheblich.
+Die späten 1970er und frühen 1980er brachten weitere Fortschritte.
+Die Netzwerktechnologie entwickelte sich rasant.
+Die Idee, Ressourcen zentral zu verwalten, wurde stärker.
+Die Mainframe-Computer dominierten immer noch.
+Doch die Kosten für lokale Rechner sanken.
+Personal Computer wurden populär.
+Dies veränderte die Landschaft der IT.
+Dennoch blieben die Visionen von zentraler Rechenleistung bestehen.
+In den 1990ern kam das World Wide Web auf.
+Das Internet wurde für die breite Masse zugänglich.
+Dies schuf die Grundlage für neue Dienste.
+Die Idee von "Utility Computing" gewann wieder an Fahrt.
+Man sprach von "Computing as a Service".
+Die Infrastruktur war nun besser geeignet.
+Viele kleinere Unternehmen konnten sich keine eigene IT leisten.
+Sie suchten nach externen Lösungen.
+Die ersten Ansätze von Software-as-a-Service (SaaS) entstanden.
+Webbasierte Anwendungen wurden entwickelt.
+Man musste keine Software mehr lokal installieren.
+Dies war ein großer Schritt.
+Die Idee, Speicherplatz über das Netz bereitzustellen, kam auf.
+Network Attached Storage (NAS) war eine Vorstufe.
+Die Konzepte von Grid Computing wurden erforscht.
+Dies verband viele Computer zu einem "virtuellen" Supercomputer.
+Die Idee der elastischen Skalierbarkeit war wichtig.
+Man wollte Ressourcen nach Bedarf anpassen können.
+Die Leistung wurde immer besser.
+Die Kosten für Netzwerkinfrastruktur sanken.
+Die ersten kommerziellen Cloud-Angebote entstanden im frühen 21. Jahrhundert.
+Salesforce startete 1999 mit SaaS.
+Amazon Web Services (AWS) startete 2006.
+Sie boten Infrastruktur als Service (IaaS) an.
+Dies revolutionierte die IT-Branche komplett.
+Man konnte nun Rechenleistung, Speicher und Datenbanken mieten.
+Dies war deutlich flexibler als eigene Server zu betreiben.
+Google und Microsoft folgten schnell.
+Sie entwickelten ihre eigenen Cloud-Plattformen.
+Die Cloud wurde schnell zum Standard.
+Viele Unternehmen verlagerten ihre Daten und Anwendungen.
+Dies ermöglichte Kosteneinsparungen und Flexibilität.
+Die Entwicklung war rasant und hat bis heute nicht aufgehört.
+Die ursprünglichen Ideen von McCarthy waren visionär.
+Sie legten den Grundstein für das moderne Cloud Computing.
+Die Geschichte zeigt, dass viele Ideen lange brauchen, bis sie realisiert werden.
+Technologie und Netzwerke mussten erst reif werden.
+Die Cloud ist heute ein unverzichtbarer Bestandteil der digitalen Welt.

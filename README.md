@@ -125,3 +125,4 @@ Happy typing!
 | Software Handwerk | A journey into the principles and history of building high-quality software with care and dedication. | German | 4922 |
 | Geheime Botschaften | Die Kunst der Verschlüsselung, um geheime Botschaften zu schützen, hat eine lange und faszinierende Geschichte. | German | 2241 |
 | Rechnerwolke Ursprünge | Die Wurzeln des Cloud Computing reichen weit zurück, über Timesharing und das Internet bis heute. | German | 5026 |
+| Forgotten Gears | Obsolete technology's journey from intricate clockwork to early computing and automation. | English | 3439 |

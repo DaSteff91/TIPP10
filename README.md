@@ -126,3 +126,4 @@ Happy typing!
 | Geheime Botschaften | Die Kunst der Verschlüsselung, um geheime Botschaften zu schützen, hat eine lange und faszinierende Geschichte. | German | 2241 |
 | Rechnerwolke Ursprünge | Die Wurzeln des Cloud Computing reichen weit zurück, über Timesharing und das Internet bis heute. | German | 5026 |
 | Forgotten Gears | Obsolete technology's journey from intricate clockwork to early computing and automation. | English | 3439 |
+| Code Literature | The idea that computer code can be literature is not new. | English | 4965 |

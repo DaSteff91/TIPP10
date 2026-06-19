@@ -127,3 +127,4 @@ Happy typing!
 | Rechnerwolke Ursprünge | Die Wurzeln des Cloud Computing reichen weit zurück, über Timesharing und das Internet bis heute. | German | 5026 |
 | Forgotten Gears | Obsolete technology's journey from intricate clockwork to early computing and automation. | English | 3439 |
 | Code Literature | The idea that computer code can be literature is not new. | English | 4965 |
+| Cargo History | The concept of standardized shipping containers emerged from a desire to rationalize the cumbersome and inefficient process of loading and unloading goods from ships. | English | 2592 |

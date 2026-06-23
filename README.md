@@ -128,3 +128,4 @@ Happy typing!
 | Forgotten Gears | Obsolete technology's journey from intricate clockwork to early computing and automation. | English | 3439 |
 | Code Literature | The idea that computer code can be literature is not new. | English | 4965 |
 | Cargo History | The concept of standardized shipping containers emerged from a desire to rationalize the cumbersome and inefficient process of loading and unloading goods from ships. | English | 2592 |
+| Dotcom Blüte | Die Dotcom-Blüte war eine Periode exzessiven Wachstums und Spekulation auf dem Aktienmarkt, die hauptsächlich auf Internetunternehmen konzentriert war. | German | 2562 |

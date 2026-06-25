@@ -130,3 +130,4 @@ Happy typing!
 | Cargo History | The concept of standardized shipping containers emerged from a desire to rationalize the cumbersome and inefficient process of loading and unloading goods from ships. | English | 2592 |
 | Dotcom Blüte | Die Dotcom-Blüte war eine Periode exzessiven Wachstums und Spekulation auf dem Aktienmarkt, die hauptsächlich auf Internetunternehmen konzentriert war. | German | 2562 |
 | Tech Diversity | The history of technology is intrinsically linked to the evolution of diversity, a narrative often overshadowed by a singular, homogenous portrayal. | English | 2690 |
+| Joint Ventures | A historical overview of how people and organizations have worked together to achieve common goals. | English | 4998 |

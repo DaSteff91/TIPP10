@@ -1,0 +1,20 @@
+Die Geschichte der Verschlüsselung ist ein faszinierendes Feld, das tief in die menschliche Notwendigkeit reicht, Informationen geheim zu halten.
+Schon in der Antike entwickelten Kulturen Methoden, um Nachrichten vor unbefugten Augen zu schützen.
+Ein frühes Beispiel ist die Skytale der Spartaner, ein einfacher Zylinder, um den ein Lederstreifen gewickelt wurde, auf dem die Nachricht geschrieben stand.
+Die Lesbarkeit hing von der Dicke des Zylinders ab, was eine rudimentäre Form der Transposition darstellte.
+Auch Julius Caesar nutzte eine einfache Substitutionschiffre, bekannt als Caesar-Chiffre, bei der jeder Buchstabe im Alphabet um eine feste Anzahl von Positionen verschoben wurde.
+Diese Methoden waren für die damalige Zeit wirksam, da das Wissen über Kryptographie begrenzt war und die Analyse von Texten komplex.
+Mit der Verbreitung von Papier und Drucktechnologie wurden die Anforderungen an die Sicherheit von Nachrichten komplexer.
+Die Renaissance sah die Entwicklung von polyalphabetischen Substitutionen, wie der Vigenère-Chiffre, die als "unentzifferbar" galt.
+Diese Chiffre verwendete ein Schlüsselwort, um die Verschiebung für jeden Buchstaben der Nachricht zu variieren, was sie weitaus stärker machte als die monoalphabetischen Verfahren.
+Die Kryptoanalyse machte jedoch ebenfalls Fortschritte, und Charles Babbage lieferte im 19. Jahrhundert entscheidende Beiträge zur Entschlüsselung der Vigenère-Chiffre.
+Im 20. Jahrhundert revolutionierten mechanische und später elektronische Geräte die Kryptographie.
+Die Enigma-Maschine, berühmt für ihre Nutzung im Zweiten Weltkrieg durch Deutschland, war ein hochentwickelter Rotor-Chiffrierer.
+Die Entschlüsselung der Enigma durch alliierte Kryptologen, insbesondere am polnischen Biuro Szyfrów und später in Bletchley Park, war ein entscheidender Faktor für den Kriegsverlauf.
+Die Arbeit von Alan Turing und seinem Team war dabei von unschätzbarem Wert.
+Die Nachkriegszeit brachte die Entwicklung von asymmetrischen Verschlüsselungsverfahren, die auf mathematischen Problemen wie der Faktorisierung großer Zahlen beruhen.
+Das RSA-Verfahren, benannt nach Rivest, Shamir und Adleman, ist ein prominentes Beispiel für Public-Key-Kryptographie.
+Diese Technologie ermöglichte sichere Kommunikation über unsichere Kanäle, wie das Internet.
+Heutzutage sind Verschlüsselungstechniken wie AES (Advanced Encryption Standard) und elliptische Kurven-Kryptographie unerlässlich für die digitale Sicherheit.
+Sie schützen unsere Online-Transaktionen, Kommunikationen und persönlichen Daten vor Cyberbedrohungen.
+Die kontinuierliche Forschung und Entwicklung in diesem Bereich ist entscheidend, um mit den sich ständig weiterentwickelnden Bedrohungen Schritt zu halten.

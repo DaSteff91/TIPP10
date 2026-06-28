@@ -131,3 +131,4 @@ Happy typing!
 | Dotcom Blüte | Die Dotcom-Blüte war eine Periode exzessiven Wachstums und Spekulation auf dem Aktienmarkt, die hauptsächlich auf Internetunternehmen konzentriert war. | German | 2562 |
 | Tech Diversity | The history of technology is intrinsically linked to the evolution of diversity, a narrative often overshadowed by a singular, homogenous portrayal. | English | 2690 |
 | Joint Ventures | A historical overview of how people and organizations have worked together to achieve common goals. | English | 4998 |
+| Verschlüsselung Geschichte | Die Entwicklung und Bedeutung der Verschlüsselung von der Antike bis zur modernen digitalen Ära. | German | 1306 |

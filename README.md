@@ -133,3 +133,4 @@ Happy typing!
 | Joint Ventures | A historical overview of how people and organizations have worked together to achieve common goals. | English | 4998 |
 | Verschlüsselung Geschichte | Die Entwicklung und Bedeutung der Verschlüsselung von der Antike bis zur modernen digitalen Ära. | German | 1306 |
 | Hacker Kultur | The story describes the historical development and core principles of hacker culture, focusing on its evolution from early computing to the digital age. | German | 5019 |
+| Storage Story | The evolution of storing information from ancient times to modern digital solutions and future possibilities. | English | 5044 |

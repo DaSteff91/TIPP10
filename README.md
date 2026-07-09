@@ -136,3 +136,4 @@ Happy typing!
 | Storage Story | The evolution of storing information from ancient times to modern digital solutions and future possibilities. | English | 5044 |
 | Bilingual Dynamics | The intricate relationship between languages, particularly English and German, offers a compelling case study in linguistic evolution and influence. | English | 2615 |
 | Analog Past | Obsolete technologies that paved the way for modern digital computing, from mechanical gears to magnetic storage. | English | 2640 |
+| Speicherwandel | Die Geschichte des Speicherns: von der Antike bis zur Cloud, eine faszinierende Entwicklung. | German | 5024 |

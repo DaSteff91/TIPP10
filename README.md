@@ -137,3 +137,4 @@ Happy typing!
 | Bilingual Dynamics | The intricate relationship between languages, particularly English and German, offers a compelling case study in linguistic evolution and influence. | English | 2615 |
 | Analog Past | Obsolete technologies that paved the way for modern digital computing, from mechanical gears to magnetic storage. | English | 2640 |
 | Speicherwandel | Die Geschichte des Speicherns: von der Antike bis zur Cloud, eine faszinierende Entwicklung. | German | 5024 |
+| Cold War Tech | This story details the significant technological advancements and innovations driven by the Cold War rivalry between superpowers. | English | 3427 |

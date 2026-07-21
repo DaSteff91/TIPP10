@@ -142,3 +142,4 @@ Happy typing!
 | Virtual Origins | The history and evolution of computer virtualization and virtual machines. | English | 4939 |
 | Protocol Genesis | The development of protocols is a cornerstone of modern communication and computing. | English | 3501 |
 | Command Origins | The story of how interacting with computers evolved from punch cards to modern command lines. | English | 3497 |
+| Technik-Pionierinnen | Die Geschichte wichtiger Frauen in der Technik und ihre bahnbrechenden Beiträge zur technologischen Entwicklung. | German | 4989 |

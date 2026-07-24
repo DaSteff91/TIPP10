@@ -1,0 +1,65 @@
+Wissenschaftliches Rechnen hat eine lange Geschichte.
+Es begann mit einfachen Berechnungen.
+Schon im Altertum nutzten Menschen Werkzeuge.
+Abakus und Rechenschieber waren frühe Hilfsmittel.
+Die Entwicklung beschleunigte sich mit der Zeit.
+Erfindungen wie die Rechenmaschine waren wichtig.
+Mechanische Geräte konnten Addition und Subtraktion.
+Sie waren langsam und anfällig für Fehler.
+Das 19. Jahrhundert brachte neue Ideen.
+Charles Babbage entwarf seine analytische Maschine.
+Sie war ein Vorläufer des modernen Computers.
+Die Zunahme komplexer Probleme erforderte mehr.
+Kriegsentscheidungen und wissenschaftliche Forschung brauchten Leistung.
+Im 20. Jahrhundert entstanden die ersten elektronischen Computer.
+ENIAC war einer der ersten.
+Diese Maschinen waren riesig und teuer.
+Sie füllten ganze Räume.
+Die Programmierung war kompliziert.
+Nur wenige Experten konnten sie bedienen.
+Wissenschaftler erkannten schnell das Potenzial.
+Sie nutzten Computer für Simulationen.
+Modelle von Flüssen und Molekülen wurden erstellt.
+Die Wettervorhersage profitierte enorm.
+Auch die Kernphysik nutzte diese Technik.
+Die Computerentwicklung schritt rasant voran.
+Transistoren ersetzten Vakuumröhren.
+Das machte Computer kleiner und schneller.
+Integrierte Schaltkreise brachten weitere Fortschritte.
+Die Miniaturisierung war ein wichtiger Schritt.
+Personal Computer wurden für viele zugänglich.
+Dies revolutionierte die wissenschaftliche Arbeit.
+Mehr Forscher konnten nun eigene Berechnungen durchführen.
+Software entwickelte sich parallel.
+Algorithmen wurden verfeinert und optimiert.
+Programmiersprachen wie Fortran und COBOL entstanden.
+Sie vereinfachten die Erstellung von Programmen.
+Die Leistung der Computer wuchs exponentiell.
+Das Moore'sche Gesetz beschrieb diese Entwicklung.
+Es besagte, dass sich die Anzahl der Transistoren verdoppelt.
+Dies geschah in regelmäßigen Abständen.
+Das Internet eröffnete neue Möglichkeiten.
+Verteilte Berechnungen wurden möglich.
+Viele Computer arbeiteten zusammen an einem Problem.
+Das verteilte Rechnen ist heute wichtig.
+Es wird für große Datensätze genutzt.
+Künstliche Intelligenz profitiert stark davon.
+Maschinelles Lernen benötigt immense Rechenleistung.
+Die Analyse von Genomen ist ein Beispiel.
+Die Klimaforschung nutzt komplexe Modelle.
+Astronomen simulieren das Universum.
+Ingenieure entwerfen neue Produkte mit Simulationen.
+Die Strömungsmechanik ist ein Anwendungsfeld.
+Die Materialwissenschaft nutzt Rechnungen.
+Die Erforschung neuer Medikamente profitiert.
+Die Simulation von chemischen Reaktionen ist entscheidend.
+Quantencomputer sind die nächste große Revolution.
+Sie versprechen eine noch größere Rechenleistung.
+Sie könnten Probleme lösen, die heute unmöglich sind.
+Wissenschaftliches Rechnen ist ein stetig wachsendes Feld.
+Es treibt den Fortschritt in vielen Disziplinen voran.
+Die Entwicklung ist noch lange nicht zu Ende.
+Die Zukunft wird noch leistungsfähigere Werkzeuge bringen.
+Diese Werkzeuge werden uns helfen, die Welt besser zu verstehen.
+Sie werden neue Entdeckungen ermöglichen.
+Die Menschheit wird komplexe Herausforderungen meistern können.

@@ -145,3 +145,4 @@ Happy typing!
 | Technik-Pionierinnen | Die Geschichte wichtiger Frauen in der Technik und ihre bahnbrechenden Beiträge zur technologischen Entwicklung. | German | 4989 |
 | Erfindergeist | Eine Geschichte von bahnbrechenden Erfindungen und deren Schöpfern. | German | 4883 |
 | Betriebssysteme | Das Betriebssystem stellt die fundamentale Schnittstelle zwischen der Hardware eines Computers und der Anwendungssoftware dar, die auf ihm ausgeführt wird. Es verwaltet die Systemressourcen, einschließlich Speicher, Prozessoren und Ein-/Ausgabegeräten, und bietet eine Umgebung, in der Programme effizient und kooperativ ausgeführt werden können. | German | 2586 |
+| Rechnen Wissenschaft | The story of scientific computing and its historical development, focusing on key milestones and advancements. | German | 5058 |

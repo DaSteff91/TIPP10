@@ -146,3 +146,4 @@ Happy typing!
 | Erfindergeist | Eine Geschichte von bahnbrechenden Erfindungen und deren Schöpfern. | German | 4883 |
 | Betriebssysteme | Das Betriebssystem stellt die fundamentale Schnittstelle zwischen der Hardware eines Computers und der Anwendungssoftware dar, die auf ihm ausgeführt wird. Es verwaltet die Systemressourcen, einschließlich Speicher, Prozessoren und Ein-/Ausgabegeräten, und bietet eine Umgebung, in der Programme effizient und kooperativ ausgeführt werden können. | German | 2586 |
 | Rechnen Wissenschaft | The story of scientific computing and its historical development, focusing on key milestones and advancements. | German | 5058 |
+| Browser Geschichte | Die Geschichte des Webbrowsers ist faszinierend. Sie begann im Jahr 1990 mit Tim Berners-Lee. | German | 4862 |

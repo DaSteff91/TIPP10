@@ -148,3 +148,4 @@ Happy typing!
 | Rechnen Wissenschaft | The story of scientific computing and its historical development, focusing on key milestones and advancements. | German | 5058 |
 | Browser Geschichte | Die Geschichte des Webbrowsers ist faszinierend. Sie begann im Jahr 1990 mit Tim Berners-Lee. | German | 4862 |
 | Silicon Valley | The history of technological innovation and entrepreneurship in California's Santa Clara Valley. | English | 4993 |
+| Alte Funde | Artefakte und Reliquien sind mehr als nur alte Gegenstände. Sie sind Fenster in vergangene Zivilisationen. Sie erzählen Geschichten, die sonst verloren wären. | German | 5082 |

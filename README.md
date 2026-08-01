@@ -149,3 +149,4 @@ Happy typing!
 | Browser Geschichte | Die Geschichte des Webbrowsers ist faszinierend. Sie begann im Jahr 1990 mit Tim Berners-Lee. | German | 4862 |
 | Silicon Valley | The history of technological innovation and entrepreneurship in California's Santa Clara Valley. | English | 4993 |
 | Alte Funde | Artefakte und Reliquien sind mehr als nur alte Gegenstände. Sie sind Fenster in vergangene Zivilisationen. Sie erzählen Geschichten, die sonst verloren wären. | German | 5082 |
+| Softwarehandwerk | Die Entstehung und Prinzipien des Softwarehandwerks, die Qualität und Professionalität in der Softwareentwicklung betonen. | German | 2622 |

@@ -1,0 +1,42 @@
+Softwarehandwerk ist ein Paradigma, das sich auf die Entwicklung von qualitativ hochwertiger Software durch sorgfältige und bewusste Praktiken konzentriert.
+Dieses Konzept entstand als Reaktion auf die Wahrnehmung, dass viele Softwareentwicklungsprozesse zu schnell und oberflächlich waren, was zu wartungsunfreundlichem Code und technischen Schulden führte.
+Die Ursprünge des Softwarehandwerks lassen sich auf die Agile Manifesto-Bewohner und die "Agile Software Development: Principles, Patterns, and Practices" von Robert C. Martin zurückführen, obwohl der Begriff "Software Craftsmanship" populär gemacht wurde von Pete McBreen in seinem Buch "Software Craftsmanship: Professionalism, Perfection, and Artistry in Software Development" aus dem Jahr 2001.
+Das Handwerk betont die Bedeutung von handwerklichem Können und Best Practices, wie z.B. Unit-Testing, Test-Driven Development (TDD), Pair Programming und Continuous Integration.
+Es geht darum, Software nicht nur zum Laufen zu bringen, sondern sie auch elegant, wartbar und erweiterbar zu gestalten.
+Ein Softwarehandwerker sieht seinen Beruf als eine Kunst, die ständiges Lernen und Verfeinern erfordert.
+Er oder sie ist bestrebt, die eigenen Fähigkeiten durch Übung, Mentoring und die Weitergabe von Wissen zu verbessern.
+Agile Prinzipien und die Disziplin des Handwerks ergänzen sich oft, wobei Handwerk als die technische Grundlage für erfolgreiche agile Transformationen betrachtet wird.
+Es geht darum, Verantwortung für die Qualität des erstellten Codes zu übernehmen und langfristige Werte für Kunden und Unternehmen zu schaffen.
+Die Bewegung ermutigt Entwickler, sich über reine Codierung hinaus zu entwickeln und eine tiefere Verbindung zu den Problemen zu entwickeln, die sie lösen.
+Dies beinhaltet ein Verständnis für das Geschäft, die Nutzer und den gesamten Lebenszyklus der Software.
+Der Fokus liegt auf der kontinuierlichen Verbesserung und der Suche nach der besten Lösung, anstatt nur der nächstbesten.
+Softwarehandwerk fördert eine Kultur des Wissensaustauschs und der Zusammenarbeit, in der sich Entwickler gegenseitig unterstützen und voneinander lernen.
+Es ist eine Verpflichtung zur Exzellenz, die über reine Effizienz hinausgeht und die nachhaltige Wertschöpfung in den Vordergrund stellt.
+Die Praxis von Refactoring ist ein zentraler Bestandteil des Handwerks, um die interne Struktur von Code zu verbessern, ohne dessen externes Verhalten zu ändern.
+Dadurch wird die Lesbarkeit und Wartbarkeit des Codes über die Zeit hinweg aufrechterhalten oder verbessert.
+Die Entwicklung von Software wird somit als ein Prozess gesehen, der sowohl technische Tiefe als auch künstlerische Sensibilität erfordert.
+Ein Handwerker ist stolz auf seine Arbeit und strebt danach, jedes Projekt mit Integrität und Sorgfalt abzuschließen.
+Die Gemeinschaft der Softwarehandwerker setzt sich dafür ein, Standards zu setzen und die Wahrnehmung von Softwareentwicklung als professionelles Handwerk zu fördern.
+Dies beinhaltet die Entwicklung von klaren Zielen und die Übernahme von Verantwortung für die Erreichung dieser Ziele durch qualitativ hochwertige Arbeit.
+Die kontinuierliche Anpassung an neue Technologien und Methoden ist ebenfalls ein Kennzeichen des Handwerks.
+Es ist eine Reise, kein Endziel, die auf ständiges Streben nach Perfektion ausgerichtet ist.
+Die Prinzipien des Handwerks werden nicht als starre Regeln betrachtet, sondern als Leitlinien, die helfen, bessere Entscheidungen zu treffen.
+Die Entwicklung von robusten und skalierbaren Systemen ist ein direktes Ergebnis dieser konzentrierten und disziplinierten Vorgehensweise.
+Softwarehandwerk repräsentiert eine tiefere Wertschätzung für den Prozess der Softwareerstellung und das Ergebnis.
+Es ist ein Bekenntnis zu Professionalität und zur Kunst des Programmierens.
+Die Betonung liegt auf dem "Wie" und "Warum" hinter dem Code, nicht nur auf dem "Was".
+Dies fördert ein tieferes Verständnis und eine stärkere Bindung an die erstellte Software.
+Die Verpflichtung zur kontinuierlichen Verbesserung treibt die Entwicklung voran und sichert die Langlebigkeit der Produkte.
+Die Weitergabe von Wissen an jüngere Generationen von Entwicklern ist ebenfalls ein wichtiger Aspekt.
+Dies stellt sicher, dass die Prinzipien des Handwerks bewahrt und weiterentwickelt werden.
+Das Ziel ist es, Software zu entwickeln, die nicht nur funktioniert, sondern auch begeistert und langfristigen Nutzen stiftet.
+Die Bedeutung von klaren und prägnanten Kommunikationswegen innerhalb der Teams ist ebenfalls hoch.
+Ein gut strukturiertes und verständliches Softwaredesign ist entscheidend für die Zusammenarbeit.
+Die Prinzipien des Handwerks fördern eine Kultur der Selbstreflexion und des kritischen Denkens.
+Entwickler werden ermutigt, ihre eigenen Arbeitsprozesse zu hinterfragen und nach Wegen zur Verbesserung zu suchen.
+Die langfristige Perspektive auf Softwareentwicklung ist ein Kernstück dieses Ansatzes.
+Es geht nicht nur um die Erfüllung kurzfristiger Anforderungen, sondern um den Aufbau von Systemen, die sich über Jahre bewähren.
+Die Gemeinschaft spielt eine entscheidende Rolle bei der Verbreitung und Festigung dieser Ideen.
+Durch Konferenzen, Meetups und Online-Foren teilen Handwerker ihr Wissen und ihre Erfahrungen.
+Die fortlaufende Verpflichtung zur persönlichen und beruflichen Weiterentwicklung ist ein unausgesprochenes Gesetz.
+Softwarehandwerk ist somit mehr als nur eine Methodik; es ist eine Haltung zur Arbeit und ein Engagement für Exzellenz.

@@ -150,3 +150,4 @@ Happy typing!
 | Silicon Valley | The history of technological innovation and entrepreneurship in California's Santa Clara Valley. | English | 4993 |
 | Alte Funde | Artefakte und Reliquien sind mehr als nur alte Gegenstände. Sie sind Fenster in vergangene Zivilisationen. Sie erzählen Geschichten, die sonst verloren wären. | German | 5082 |
 | Softwarehandwerk | Die Entstehung und Prinzipien des Softwarehandwerks, die Qualität und Professionalität in der Softwareentwicklung betonen. | German | 2622 |
+| Chip Evolution | The genesis of the microprocessor traces back to the early 1970s, a pivotal era in the history of computing. | English | 2593 |

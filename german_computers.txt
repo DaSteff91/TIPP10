@@ -1,0 +1,67 @@
+Germany has a rich history in computing.
+Konrad Zuse was a pioneer.
+He built the Z1 in 1938.
+This was the first programmable computer.
+It was electromechanical.
+The Z1 used binary logic.
+It had limitations.
+Zuse later built the Z3.
+This was in 1941.
+The Z3 was the first working programmable.
+It was fully automatic.
+It used relays.
+World War II interrupted Zuse's work.
+His workshop was destroyed.
+Despite this, he continued developing ideas.
+He created Plankalkül.
+This was a high-level programming language.
+It was designed in the 1940s.
+It was not implemented at the time.
+After the war, Zuse continued his work.
+He founded his own company.
+He developed further computers.
+His contributions were immense.
+Other German scientists also contributed.
+Helmut Scheludko worked on early computers.
+Friedrich Bauer was important in software.
+His work influenced programming languages.
+Germany was divided after the war.
+This affected research and development.
+West Germany focused on rebuilding.
+East Germany had its own research.
+VEB Elektronik was a key company.
+They produced computers like the KRS 42.
+These were often based on Soviet designs.
+However, German engineering was still present.
+In the West, companies like Siemens emerged.
+Siemens played a role in industrial computing.
+They developed mainframe computers.
+Their impact was felt in business.
+Universities also fostered computing.
+Technical universities were crucial.
+They trained new generations of engineers.
+Research into algorithms continued.
+New programming paradigms were explored.
+Germany also embraced microprocessors.
+As the technology became global.
+Companies adapted and innovated.
+German software companies grew.
+They focused on specific niches.
+Industries like automotive relied on computing.
+This drove demand for powerful systems.
+Automation became a key area.
+Robotics developed in Germany.
+This heavily involved computer control.
+The internet era brought new challenges.
+German companies adapted to this shift.
+Open-source software gained traction.
+Germany has a strong academic tradition.
+This helps drive innovation.
+Today, Germany is a leader in many tech fields.
+This includes artificial intelligence.
+Quantum computing is also a focus.
+The legacy of pioneers like Zuse lives on.
+Germany's computing history is deep.
+It is a story of innovation.
+It is a story of resilience.
+It is a story of technological advancement.

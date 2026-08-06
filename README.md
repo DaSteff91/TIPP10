@@ -152,3 +152,4 @@ Happy typing!
 | Softwarehandwerk | Die Entstehung und Prinzipien des Softwarehandwerks, die Qualität und Professionalität in der Softwareentwicklung betonen. | German | 2622 |
 | Chip Evolution | The genesis of the microprocessor traces back to the early 1970s, a pivotal era in the history of computing. | English | 2593 |
 | Algorithmen Entdeckung | Die Entdeckung von Algorithmen bildet die Grundlage moderner Informatik und angewandter Mathematik. | German | 2627 |
+| German Computers | A factual story about German computing history, its pioneers, and evolution. | English | 5030 |

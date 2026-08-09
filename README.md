@@ -154,3 +154,4 @@ Happy typing!
 | Algorithmen Entdeckung | Die Entdeckung von Algorithmen bildet die Grundlage moderner Informatik und angewandter Mathematik. | German | 2627 |
 | German Computers | A factual story about German computing history, its pioneers, and evolution. | English | 5030 |
 | Web Evolution | The genesis of the World Wide Web can be traced to the late 1980s and early 1990s. | English | 2677 |
+| Ancient Echoes | Artifacts and relics offer tangible insights into human history, revealing past lives and civilizations. | English | 3443 |

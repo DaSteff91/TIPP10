@@ -156,3 +156,4 @@ Happy typing!
 | Web Evolution | The genesis of the World Wide Web can be traced to the late 1980s and early 1990s. | English | 2677 |
 | Ancient Echoes | Artifacts and relics offer tangible insights into human history, revealing past lives and civilizations. | English | 3443 |
 | Erste Stimmen | The story focuses on first-hand accounts and their historical significance. | German | 3448 |
+| Digitale Spuren | Digitale Archäologie bewahrt und erforscht digitale Objekte für zukünftige Generationen, eine multidisziplinäre Herausforderung. | German | 2609 |

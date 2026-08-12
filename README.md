@@ -157,3 +157,4 @@ Happy typing!
 | Ancient Echoes | Artifacts and relics offer tangible insights into human history, revealing past lives and civilizations. | English | 3443 |
 | Erste Stimmen | The story focuses on first-hand accounts and their historical significance. | German | 3448 |
 | Digitale Spuren | Digitale Archäologie bewahrt und erforscht digitale Objekte für zukünftige Generationen, eine multidisziplinäre Herausforderung. | German | 2609 |
+| Display History | The evolution of display technology from early mechanical devices to modern OLED and future holographic screens. | English | 4963 |

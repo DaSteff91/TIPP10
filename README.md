@@ -160,3 +160,4 @@ Happy typing!
 | Display History | The evolution of display technology from early mechanical devices to modern OLED and future holographic screens. | English | 4963 |
 | Virtualisierung Geschichte | Die Geschichte der Virtualisierung reicht zurück bis in die 1960er Jahre und ist heute zentral für die IT. | German | 4957 |
 | Erfindungsprozess Veranschaulicht | Die Entstehungsgeschichte des elektrischen Telegraphen und seine Auswirkungen auf die Kommunikation. | German | 2591 |
+| Software Entwicklung | Eine Reise durch die Geschichte der Softwareerstellung und ihrer Entwicklung. | German | 5038 |

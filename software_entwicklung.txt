@@ -1,0 +1,76 @@
+Die Geschichte der Softwareentwicklung ist faszinierend.
+Sie begann mit einfachen Anfängen.
+Frühe Computer waren riesig.
+Sie füllten ganze Räume.
+Die Programmierung war mühsam.
+Man musste direkte Befehle eingeben.
+Dies geschah oft mit Lochkarten.
+Die Entwicklung war sehr langsam.
+Dann kamen die ersten Programmiersprachen.
+Sie machten die Arbeit einfacher.
+FORTRAN wurde für wissenschaftliche Berechnungen entwickelt.
+COBOL wurde für Geschäftsanwendungen geschaffen.
+Diese Sprachen waren textbasiert.
+Sie erlaubten komplexere Anweisungen.
+Die Computer wurden kleiner.
+Die Leistung stieg exponentiell an.
+Dies wurde als Mooresches Gesetz bekannt.
+Die Software wurde komplexer.
+Es entstanden Betriebssysteme wie UNIX.
+Diese boten neue Möglichkeiten.
+Die grafische Benutzeroberfläche revolutionierte die Interaktion.
+Apple und Microsoft waren Vorreiter.
+Es entstanden objektorientierte Programmiersprachen.
+Smalltalk und C++ waren wichtige Beispiele.
+Diese Sprachen ermöglichten bessere Struktur.
+Die Softwareentwicklung wurde standardisierter.
+Es entwickelten sich klare Phasen.
+Planung, Design, Implementierung und Test.
+Diese Phasen bilden den Softwareentwicklungszyklus.
+Es entstanden verschiedene Methoden.
+Die Wasserfallmethode war eine frühe Wahl.
+Sie folgte einem linearen Prozess.
+Spätere Methoden brachten Flexibilität.
+Agile Methoden wurden populär.
+Scrum und Kanban sind Beispiele dafür.
+Diese Methoden setzen auf Iteration und Anpassung.
+Die Entwicklung von Webanwendungen begann.
+HTML, CSS und JavaScript waren entscheidend.
+Das Internet veränderte alles.
+Plattformen wie das World Wide Web entstanden.
+Die Software wurde global zugänglich.
+Es entstanden mobile Anwendungen.
+Smartphones und Tablets veränderten die Nutzung.
+Apps wurden zu einem wichtigen Markt.
+Die Komplexität der Software stieg weiter.
+Es entstanden verteilte Systeme.
+Cloud Computing wurde zur Norm.
+Software wird heute oft als Dienstleistung angeboten.
+SaaS steht für Software as a Service.
+Die Sicherheit wurde zu einem Hauptanliegen.
+Cyberangriffe erfordern robuste Lösungen.
+Künstliche Intelligenz beeinflusst die Entwicklung.
+Maschinelles Lernen automatisiert Aufgaben.
+Code-Generierung wird immer besser.
+DevOps kombiniert Entwicklung und Betrieb.
+Dies beschleunigt die Bereitstellung.
+Die Tools zur Softwareentwicklung sind vielfältig.
+Integrierte Entwicklungsumgebungen helfen Entwicklern.
+Versionskontrollsysteme wie Git sind unerlässlich.
+Automatisierte Tests sparen Zeit.
+Die Softwareentwicklung ist ein dynamisches Feld.
+Sie entwickelt sich ständig weiter.
+Neue Sprachen und Technologien entstehen.
+Die Nachfrage nach Software wächst.
+Die Ausbildung von Entwicklern ist wichtig.
+Universitäten und Online-Kurse bieten Wissen.
+Die Gemeinschaft der Entwickler ist global.
+Austausch und Zusammenarbeit sind entscheidend.
+Die Zukunft der Softwareentwicklung ist spannend.
+Sie wird weiterhin unser Leben prägen.
+Innovationen werden neue Möglichkeiten schaffen.
+Die Grenzen des Möglichen verschieben sich.
+Die Softwareentwicklung bleibt ein Schlüsselbereich.
+Sie treibt den technologischen Fortschritt voran.
+Die digitale Transformation wird von ihr getragen.
+Die Reise der Software ist noch lange nicht zu Ende.

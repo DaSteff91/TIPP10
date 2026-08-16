@@ -161,3 +161,4 @@ Happy typing!
 | Virtualisierung Geschichte | Die Geschichte der Virtualisierung reicht zurück bis in die 1960er Jahre und ist heute zentral für die IT. | German | 4957 |
 | Erfindungsprozess Veranschaulicht | Die Entstehungsgeschichte des elektrischen Telegraphen und seine Auswirkungen auf die Kommunikation. | German | 2591 |
 | Software Entwicklung | Eine Reise durch die Geschichte der Softwareerstellung und ihrer Entwicklung. | German | 5038 |
+| Netzwerk Protokolle | Die Geschichte der Netzwerkkommunikation und der Entwicklung von Standards für die Datenübertragung. | German | 3410 |

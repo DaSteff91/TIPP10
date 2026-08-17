@@ -162,3 +162,4 @@ Happy typing!
 | Erfindungsprozess Veranschaulicht | Die Entstehungsgeschichte des elektrischen Telegraphen und seine Auswirkungen auf die Kommunikation. | German | 2591 |
 | Software Entwicklung | Eine Reise durch die Geschichte der Softwareerstellung und ihrer Entwicklung. | German | 5038 |
 | Netzwerk Protokolle | Die Geschichte der Netzwerkkommunikation und der Entwicklung von Standards für die Datenübertragung. | German | 3410 |
+| Halbleiter-Geschichte | Eine historische Erzählung über die Entwicklung und Bedeutung von Halbleitern in der modernen Technologie. | German | 2711 |

@@ -1,0 +1,16 @@
+Die Ära der Halbleiter begann mit der Entdeckung des Photovoltaik-Effekts durch Edmond Becquerel im Jahr 1839, obwohl die praktische Anwendung erst Jahrzehnte später erfolgte.
+Die entscheidenden Durchbrüche ereigneten sich in den Bell Laboratories, wo John Bardeen, Walter Brattain und William Shockley 1947 den ersten funktionsfähigen Transistor entwickelten.
+Dieser Punkt-Kontakt-Transistor, gefertigt aus Germanium, löste die sperrigen und energiehungrigen Vakuumröhren ab und eröffnete neue Möglichkeiten in der Elektronik.
+Schon 1954 demonstrierte Texas Instruments den ersten kommerziellen Transistor aus Silizium, ein Material, das aufgrund seiner besseren thermischen Eigenschaften und Verfügbarkeit zum dominierenden Werkstoff avancierte.
+Die nächste Revolution war die Erfindung des integrierten Schaltkreises (IC), auch Mikrochip genannt, im Jahr 1958 durch Jack Kilby von Texas Instruments und Robert Noyce von Fairchild Semiconductor.
+Diese Innovation ermöglichte es, komplexe Schaltungen auf einem einzigen Halbleiterplättchen unterzubringen, was zu einer drastischen Verkleinerung und Leistungssteigerung elektronischer Geräte führte.
+Die Miniaturisierung schritt exponentiell voran, getrieben durch das Mooresche Gesetz, welches voraussagte, dass sich die Anzahl der Transistoren auf einem Chip etwa alle zwei Jahre verdoppelt.
+Die Herstellung von Halbleitern entwickelte sich zu einem hochkomplexen lithographischen Prozess, der extrem reine Materialien und präzise Fertigungsumgebungen erforderte.
+Fabs, die hochreinen Produktionsanlagen, wurden zu Schlüsselkomponenten der globalen Halbleiterindustrie, wobei die USA und später Japan und Taiwan eine führende Rolle übernahmen.
+Die Entwicklung von MOSFETs (Metal-Oxide-Semiconductor Field-Effect Transistors) in den frühen 1960er Jahren, insbesondere durch Dawon Kahng und Martin Atalla, revolutionierte die Leistung und Energieeffizienz von ICs.
+Diese Transistortypen sind bis heute die Grundlage der meisten digitalen Schaltkreise und Prozessoren.
+Die fortschreitende Skalierung führte zur Entwicklung von Mikroprozessoren, Speicherchips wie DRAM und NAND-Flash, und spezialisierten ASICs (Application-Specific Integrated Circuits).
+Die Halbleiterindustrie investierte massiv in Forschung und Entwicklung, um immer kleinere Strukturgrößen (Knoten) zu erreichen, wie 10 Nanometer, 7 Nanometer und darunter.
+Moderne Fertigungstechniken, einschließlich EUV-Lithographie (Extreme Ultraviolet), sind notwendig, um diese winzigen Strukturen zu realisieren und die Leistungsfähigkeit fortlaufend zu steigern.
+Die Halbleiter bilden das Rückgrat der digitalen Revolution und ermöglichen Technologien wie Smartphones, Computer, künstliche Intelligenz, das Internet der Dinge und fortschrittliche Kommunikationssysteme.
+Ihre Geschichte ist eine fortwährende Reise der Innovation, die tiefgreifende Auswirkungen auf nahezu jeden Aspekt der modernen Gesellschaft hat und weiterhin haben wird.

@@ -1,0 +1,27 @@
+Die Entstehung der Softwaretechnik als eigenständige Disziplin war ein evolutionärer Prozess, der von genialen Köpfen und bahnbrechenden Ideen geprägt war.
+Frühe Computerpioniere wie Grace Hopper trugen maßgeblich zur Entwicklung von Programmiersprachen und Compilertechnologie bei.
+Ihr Pioniergeist und ihre Vision formten die Grundlage für die Art und Weise, wie wir heute Software erstellen.
+In den 1960er Jahren begann sich die Erkenntnis durchzusetzen, dass Softwareentwicklung mehr als nur das Schreiben von Code war.
+Die sogenannte "Softwarekrise" zeigte Defizite in Bezug auf Zuverlässigkeit, Kostenkontrolle und Zeitplanung auf.
+Dies führte zur Formulierung der Notwendigkeit einer systematischen und wissenschaftlichen Herangehensweise, dem Kern der Softwaretechnik.
+Frederick Brooks Jr. ist eine zentrale Figur in diesem Kontext, besonders durch sein Buch "The Mythical Man-Month".
+Brooks analysierte die Komplexität von Softwareprojekten und die fatalen Irrtümer, die bei deren Management gemacht wurden.
+Er betonte, dass das Hinzufügen von Personal zu einem verspäteten Projekt dieses oft nur weiter verzögert, ein Konzept, das als "Brooks'sches Gesetz" bekannt wurde.
+Seine Einsichten sind bis heute relevant für die Projektleitung und das Management von Entwicklungsteams.
+Erich Gamma, Richard Helm, Ralph Johnson und John Vlissides, bekannt als die "Gang of Four" (GoF), revolutionierten das objektorientierte Design mit ihrem Werk "Design Patterns".
+Sie identifizierten und dokumentierten wiederkehrende Entwurfsprobleme und deren bewährte Lösungen in objektorientierten Systemen.
+Die von ihnen vorgestellten Entwurfsmuster bieten eine gemeinsame Sprache und ein Framework zur Gestaltung flexibler, wartbarer und wiederverwendbarer Softwarearchitekturen.
+Diese Muster sind zu einem fundamentalen Bestandteil des modernen Software-Engineerings geworden.
+Edsger W. Dijkstra leistete ebenfalls bedeutende Beiträge zur theoretischen Informatik und zur Softwaretechnik.
+Seine Arbeiten zur Korrektheitsbeweisführung von Programmen und zur strukturierten Programmierung setzten neue Standards für die Qualität und Zuverlässigkeit von Software.
+Dijkstra war ein starker Verfechter der mathematischen Strenge in der Programmierung.
+Auch der Begriff "Software-Engineering" selbst, wie er von Margaret Hamilton geprägt wurde, symbolisiert die Professionalisierung und Industrialisierung der Softwareentwicklung.
+Hamilton leitete das Software-Engineering-Team für das Apollo-Raumfahrtprogramm der NASA.
+Sie entwickelte Konzepte zur Robustheit und Fehlerbehandlung, die entscheidend für den Erfolg der Mondlandung waren.
+Die Arbeit dieser und vieler anderer Legenden hat die Softwaretechnik von einer handwerklichen Tätigkeit zu einer disziplinierten Ingenieurwissenschaft transformiert.
+Ihre Errungenschaften bilden das Fundament, auf dem heutige komplexe Softwaresysteme aufbauen.
+Die kontinuierliche Weiterentwicklung und Verfeinerung von Methoden, Werkzeugen und Prinzipien spiegelt das bleibende Erbe dieser Pioniere wider.
+Die Prinzipien des guten Designs, der systematischen Entwicklung und der Zuverlässigkeit bleiben zentrale Anliegen.
+Die Geschichte der Softwaretechnik ist eine Geschichte menschlicher Intelligenz und Ausdauer im Angesicht komplexer Herausforderungen.
+Die fortwährende Suche nach besseren Wegen, Software zu erstellen, wird durch ihre bahnbrechenden Arbeiten inspiriert.
+Jede Generation von Ingenieuren baut auf den Schultern dieser Giganten.

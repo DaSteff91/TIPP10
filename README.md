@@ -165,3 +165,4 @@ Happy typing!
 | Halbleiter-Geschichte | Eine historische Erzählung über die Entwicklung und Bedeutung von Halbleitern in der modernen Technologie. | German | 2711 |
 | Software Pioniere | Die Entstehung der Softwaretechnik als eigenständige Disziplin war ein evolutionärer Prozess, der von genialen Köpfen und bahnbrechenden Ideen geprägt war. | German | 1317 |
 | Zeugenaussagen Erster Hand | Die primäre Quelle für historische Erkenntnisse sind oft die persönlichen Aufzeichnungen von Zeitzeugen. | German | 2659 |
+| Code Genesis | The story covers the historical emergence and technical significance of assembly language programming. | English | 2602 |

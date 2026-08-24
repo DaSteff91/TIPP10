@@ -167,3 +167,4 @@ Happy typing!
 | Zeugenaussagen Erster Hand | Die primäre Quelle für historische Erkenntnisse sind oft die persönlichen Aufzeichnungen von Zeitzeugen. | German | 2659 |
 | Code Genesis | The story covers the historical emergence and technical significance of assembly language programming. | English | 2602 |
 | Code Pioneers | The story of individuals who learned programming without formal education and their impact on technology. | English | 2633 |
+| Research Hubs | University research labs are centers of discovery, fostering innovation and advancing human knowledge through dedicated scientific exploration. | English | 5009 |

@@ -1,0 +1,98 @@
+Der Wettlauf ins All war ein technischer Wettkampf.
+Die Sowjetunion und die USA kämpften um die Vorherrschaft im Weltraum.
+Computer spielten dabei eine entscheidende Rolle.
+Sie waren das Gehirn jeder Raumfahrtmission.
+Die Anfänge der Raumfahrt waren bescheiden.
+Die ersten Computer waren riesig.
+Sie füllten ganze Räume.
+Ihre Leistung war gering im Vergleich zu heute.
+Aber sie waren wegweisend.
+Die Mercury-Mission war ein früher Meilenstein.
+John Glenn umkreiste die Erde.
+Seine Kapsel wurde von Computern gesteuert.
+Diese Computer waren analog und digital.
+Sie berechneten Flugbahnen und Triebwerksleistung.
+Die Gemini-Mission folgte.
+Sie war wichtiger für die Mondlandung.
+Die Astronauten lernten zu manövrieren.
+Computer simulierten die Manöver.
+Sie waren auch an Bord der Raumschiffe.
+Die Apollo-Mission war das ultimative Ziel.
+Der Mond sollte betreten werden.
+Ein neues Computersystem war nötig.
+Das Apollo Guidance Computer (AGC) wurde entwickelt.
+Es war ein Wunder der Technik.
+Es war viel kleiner als frühere Modelle.
+Es war leistungsstark für seine Zeit.
+Der AGC steuerte das Raumschiff zum Mond.
+Er berechnete den Wiedereintritt in die Erdatmosphäre.
+Die Programmierung des AGC war komplex.
+Sie erfolgte in Assemblersprache.
+Programmierer schrieben Millionen von Codezeilen.
+Die Software musste fehlerfrei sein.
+Ein einziger Fehler hätte katastrophale Folgen.
+Die Entwickler bei MIT waren Pioniere.
+Sie schufen die Grundlagen für moderne Softwaretechnik.
+Die Herstellung der integrierten Schaltkreise war neu.
+Diese ICs machten den AGC möglich.
+Sie ersetzten Transistoren und Dioden.
+Die Computer leisteten mehr bei geringerem Gewicht.
+Das war entscheidend für die Raumfahrt.
+Der Erfolg der Apollo-Missionen war ihr Verdienst.
+Nach dem Mond war die Raumstation Mir ein Ziel.
+Die Sowjets nutzten fortschrittliche Computer.
+Sie entwickelten eigene Systeme für ihre Missionen.
+Später arbeiteten die USA und die Sowjetunion zusammen.
+Die Space Shuttle-Ära begann.
+Die Computer wurden immer kleiner und leistungsfähiger.
+Laptops wurden für die Bodenkontrolle verwendet.
+Die Bordcomputer wurden vernetzt.
+Die Softwareentwicklung wurde standardisiert.
+Die Komplexität nahm weiter zu.
+Jede neue Mission erforderte bessere Computer.
+Von einfachen Berechnungen zu komplexen Simulationen.
+Die Digitalisierung veränderte alles.
+Die Raumfahrt ist ohne Computer nicht denkbar.
+Sie sind unverzichtbar für Navigation und Steuerung.
+Sie speichern riesige Datenmengen.
+Sie ermöglichen die Kommunikation über weite Distanzen.
+Die Mars-Rover werden von hochentwickelten Computern gesteuert.
+Sie erkunden den roten Planeten autonom.
+Die Hubble-Weltraumteleskop liefert atemberaubende Bilder.
+Ihre Daten werden von Computern verarbeitet.
+Die Internationale Raumstation ISS ist ein mobiles Labor.
+Ihre Systeme sind stark computergestützt.
+Die Forschung schreitet dank Computertechnik voran.
+Die Entwicklung von KI ist ein weiterer Schritt.
+Sie könnte zukünftige Raumfahrtmissionen revolutionieren.
+Autonome Systeme werden immer wichtiger.
+Die Geschichte der Raumfahrt ist eng mit der Computergeschichte verknüpft.
+Sie inspirieren Generationen von Wissenschaftlern und Ingenieuren.
+Der Wettlauf hat die Technologie beschleunigt.
+Er hat uns gezeigt, was möglich ist.
+Die Zukunft der Raumfahrt wird noch aufregender sein.
+Computer werden dabei eine noch größere Rolle spielen.
+Sie sind der Schlüssel zu neuen Entdeckungen.
+Sie erweitern unsere Grenzen im Universum.
+Die Reise geht weiter.
+Die Technologie entwickelt sich ständig weiter.
+Der Einfluss auf unser tägliches Leben ist enorm.
+Wir nutzen die Früchte dieser Entwicklungen.
+Das Erbe des Wettlaufs lebt weiter.
+Es inspiriert uns zu neuen Höhen.
+Die Rechenleistung wächst exponentiell.
+Die Miniaturisierung schreitet voran.
+Die Vernetzung wird global.
+Die Computer sind kleiner, schneller und intelligenter.
+Sie ermöglichen uns, das Unbekannte zu erforschen.
+Die Weltraumforschung ist ein Motor des Fortschritts.
+Sie treibt Innovationen voran.
+Die Computer sind die Werkzeuge dazu.
+Sie sind die Augen und Ohren im All.
+Sie ermöglichen die Steuerung aus der Ferne.
+Die Datenanalyse ist entscheidend.
+Ohne Computer gäbe es keine moderne Raumfahrt.
+Ihre Bedeutung kann nicht unterschätzt werden.
+Die Anfänge waren mühsam.
+Die Erfolge sind monumental.
+Der Blick in die Zukunft ist optimistisch.

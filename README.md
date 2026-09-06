@@ -174,3 +174,4 @@ Happy typing!
 | Computing's Genesis | Early conceptualizations and technological advancements leading to modern cloud computing services. | English | 2688 |
 | Old Guides | A historical look at vintage manuals, their purpose, design, and enduring value. | English | 3510 |
 | Learning Journey | A journey through the history of educational content and its evolution | English | en |
+| Web Entwicklung | A historical overview of web development from its origins to modern technologies and trends. | German | 3442 |

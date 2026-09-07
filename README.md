@@ -175,3 +175,4 @@ Happy typing!
 | Old Guides | A historical look at vintage manuals, their purpose, design, and enduring value. | English | 3510 |
 | Learning Journey | A journey through the history of educational content and its evolution | English | en |
 | Web Entwicklung | A historical overview of web development from its origins to modern technologies and trends. | German | 3442 |
+| Gaming Origins | The evolution of interactive digital entertainment from its early experiments to modern immersive experiences. | English | 3589 |
